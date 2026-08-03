@@ -1,7 +1,6 @@
-# Hello, I'm Khamil
-<a href="https://www.linkedin.com/in/khamil-t"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm K
 
-I’m a recent graduate in cybersecurity, with a huge passion and love for the profession. I have experience analyzing network traffic, system logs, and digital evidence to investigate and respond to security incidents.
+I’m a recent graduate in cybersecurity, with a huge passion and love for technology. I have experience analyzing network traffic, system logs, and digital evidence to investigate and respond to security incidents.
 
 ## Objective
 
